@@ -102,7 +102,7 @@ Toda a base do código está documentada com JavaDoc, incluindo:
 ## 🛠 Como rodar o projeto
 
 <ol>
-  <li>Clone o repositório: <code>git clone https://github.com/seu-usuario/user-api.git</code></li>
+  <li>Clone o repositório: <code>git clone https://github.com/DaniloAlves1902/userapi</code></li>
   <li>Configure o banco de dados no <code>application.properties</code></li>
   <li>Execute a aplicação com: <code>mvn spring-boot:run</code> ou pelo seu IDE favorito</li>
   <li>Acesse os endpoints via <code>http://localhost:8080/users</code></li>
