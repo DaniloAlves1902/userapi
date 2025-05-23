@@ -1,9 +1,9 @@
 # User API 🚀
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-blue?logo=java" alt="Java 17" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-3.0-green?logo=springboot" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Database-MySQL-orange" alt="MySQL" />
+   <img src="https://img.shields.io/badge/Java-21-blue?logo=java" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-green?logo=springboot" alt="Spring Boot 3+" />
+  <img src="https://img.shields.io/badge/Database-H2-purple?logo=h2database" alt="H2 Database" />
   <img src="https://img.shields.io/badge/Build-Maven-red" alt="Maven" />
 </p>
 
