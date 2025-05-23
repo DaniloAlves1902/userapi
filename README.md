@@ -18,10 +18,10 @@
 ## 🔧 Tecnologias utilizadas
 
 <ul>
-  <li>Java 17</li>
-  <li>Spring Boot 3</li>
+  <li>Java 21</li>
+  <li>Spring Boot 3+</li>
   <li>Spring Data JPA</li>
-  <li>MySQL (ou outro banco relacional)</li>
+  <li>H2 (pode implemenar um banco real caso deseje)</li>
   <li>Jakarta Validation (Bean Validation)</li>
   <li>JavaDoc para documentação</li>
   <li>Maven para gerenciamento de dependências</li>
@@ -118,7 +118,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## 📄 Licença
 
-MIT License &copy; 2025 Seu Nome
+MIT License &copy; 2025 Danilo Alves
 
 ---
 
